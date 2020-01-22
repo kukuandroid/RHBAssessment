@@ -7,3 +7,6 @@ npm run dev
 
 # URL for testing
 https://rhbassessment.khairulfilhan94.now.sh/ 
+
+# Notes
+Styling / CSS / SASS are not well focused for this assessment
